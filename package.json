@@ -1,0 +1,19 @@
+{
+  "name": "field-visit-pwa",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "@frappe/frappe-ui": "^0.5.0",
+    "axios": "^1.4.0",
+    "jspdf": "^2.5.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "vite-plugin-pwa": "^0.13.0"
+  }
+}
